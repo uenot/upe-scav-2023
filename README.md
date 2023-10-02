@@ -2,7 +2,7 @@
 
 This repository contains the clue to your first destination. There are 4 files that you will need to analyze the output of; you can either
 
-- trace the code by viewing the files on GitHub, or
+- trace the code by viewing the files on GitHub (you may need an [ASCII table](https://www.asciitable.com/)), or
 - clone the repo and run the code to see the outputs (I hope you paid attention to my Git workshop last week!)
 
 We recommend splitting up into 4 groups, so that there are 2 or 3 people working on a file at a time!

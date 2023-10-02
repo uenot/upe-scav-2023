@@ -1,4 +1,4 @@
-# Welcome to the UPE Scavenger Hunt of Fall 2023!
+# Welcome to the 2023 UPE Scavenger Hunt!
 
 This repository contains the clue to your first destination. There are 4 files that you will need to analyze the output of; you can either
 
